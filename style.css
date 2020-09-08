@@ -69,11 +69,8 @@ a:hover {
 }
 .img-circle {
   border-radius: 50%;
-  display: inline-block;
-  position: relative;
   width: 200px;
-  height: 200px;
-  overflow: hidden;
+  height: 150px;
 }
 .btn-blue {
   background-color: #500910;
