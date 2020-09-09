@@ -71,7 +71,7 @@ a:hover {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  object-fit: initial;
+  object-fit: cover;
 }
 .btn-blue {
   background-color: #500910;
